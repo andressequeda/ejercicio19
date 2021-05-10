@@ -1,0 +1,8 @@
+dinero  =  int ( input ( "Ingrese una cantidad de dinero:" ))
+mil  =  ronda ( dinero  /  1000 )
+dos_mil  =  ronda ( dinero  /  2000 )
+cinco_mil  =  ronda ( dinero  /  5000 )
+diez_mil  =  ronda ( dinero  /  10000 )
+veinte_mil  =  ronda ( dinero  /  20000 )
+cincuenta_mil  =  round ( dinero  /  50000 )
+cien_mil  =  ronda ( dinero  /  100000 )
